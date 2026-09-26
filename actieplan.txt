@@ -1,0 +1,11 @@
+=== CBG AI RISICO-ANALYSE & INTERVENTIEPLAN ===
+Gegenereerd door Tekortscanner CBG
+===============================================
+
+Medicijn: Amoxcilline
+Risicoscore: 20/100
+[LAAG RISICO]
+  - Actie: Standaard monitoring.
+  - Maatregel: Geen acute actie vereist. Periodieke herbeoordeling over 6 maanden.
+-----------------------------------------------
+
