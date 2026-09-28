@@ -2,10 +2,19 @@
 Gegenereerd door Tekortscanner CBG
 ===============================================
 
-Medicijn: Amoxcilline
-Risicoscore: 20/100
-[LAAG RISICO]
-  - Actie: Standaard monitoring.
-  - Maatregel: Geen acute actie vereist. Periodieke herbeoordeling over 6 maanden.
+Medicijn: naproxen
+Risicoscore: 60/100
+[MATIG RISICO]
+  - Actie: Preventieve voorraadmonitoring.
+  - Maatregel 1: Opstellen therapeutische alternatievenlijst voor voorschrijvers.
+  - Maatregel 2: Kwartaal-audit op leveringszekerheid van de fabrikant.
+-----------------------------------------------
+
+Medicijn: Ibuprofen
+Risicoscore: 60/100
+[MATIG RISICO]
+  - Actie: Preventieve voorraadmonitoring.
+  - Maatregel 1: Opstellen therapeutische alternatievenlijst voor voorschrijvers.
+  - Maatregel 2: Kwartaal-audit op leveringszekerheid van de fabrikant.
 -----------------------------------------------
 
